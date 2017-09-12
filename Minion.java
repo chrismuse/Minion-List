@@ -2,7 +2,7 @@ import java.util.Comparator;
 
 /**
 * MinionList class.
-* @author cmuse7
+* @author Chris Muse
 * @version 1
 */
 public class Minion implements Comparable<Minion> {

@@ -2,7 +2,7 @@ import java.util.NoSuchElementException;
 import java.util.Iterator;
 /**
 * MinionList class.
-* @author Heather
+* @author Chris Muse
 * @version 1
 */
 public class MinionList implements Iterable<Minion>, MinionQueue, MinionStack {
